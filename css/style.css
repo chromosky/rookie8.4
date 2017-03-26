@@ -1,0 +1,9 @@
+p {
+  font-size: 28px;
+  font-weight: 600;
+  color: #eee;
+  border: 2px solid #ccc;
+  width: 120px;
+  text-align: center;
+  background-color: #a33;
+}
